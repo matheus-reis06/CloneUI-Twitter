@@ -18,7 +18,7 @@ UI Clone - Twitter Responsive
 
 ## Participants
 
-![MyAvatar width="75px"](https://www.ah-studio.com/wp-content/uploads/2020/07/how-to-draw-the-letter-m-in-3d-youtube-3d-letter-m-template.jpg)
+![MyAvatar width="75px"](https://avatars.githubusercontent.com/u/82671783?s=400&u=3ab193499bed482ec4c547ca97d4d259a1db9193&v=4)
 [Matheus dos Reis](https://github.com/matheus-reis06)
 
 ## Techs
