@@ -18,7 +18,7 @@ UI Clone - Twitter Responsive
 
 ## Participants
 
-[<img src="https://github.com/account" width="75px;"/>](https://github.com/guilhermerodz)
+[<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ah-studio.com%2Fwp-content%2Fuploads%2F2020%2F07%2Fhow-to-draw-the-letter-m-in-3d-youtube-3d-letter-m-template.jpg&f=1&nofb=1 width="75px;"/>](https://github.com/guilhermerodz)
 
 [Matheus dos Reis](https://github.com/matheus-reis06)
 
