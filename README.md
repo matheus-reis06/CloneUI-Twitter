@@ -18,9 +18,8 @@ UI Clone - Twitter Responsive
 
 ## Participants
 
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz)
-
-[Guilherme Rodz](https://github.com/guilhermerodz)
+![MyAvatar width="75px"](https://avatars.githubusercontent.com/u/82671783?s=400&u=3ab193499bed482ec4c547ca97d4d259a1db9193&v=4)
+[Matheus dos Reis](https://github.com/matheus-reis06)
 
 ## Techs
 
